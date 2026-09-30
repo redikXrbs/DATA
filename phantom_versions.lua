@@ -1,4 +1,0 @@
-return {
-    supported = {"1.1"},
-    latest = "1.1",
-}
